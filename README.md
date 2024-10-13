@@ -13,7 +13,7 @@ Extract the files in src_provided_files.zip and place them in the src folder. Pl
 
 Extract the images in other_provided_files.zip and place them in the project folder (the parent folder of the src folder).
 
-Provide 3 positive integer arguments to the Play.java file. The first argument is the size of the square board, the second argument is the number of adjacent tiles needed to win a game (height of the game tree), the third argument is the depth of the game-tree to be explored (difficulty). The game tree is a tree of all possible outcomes of the game and the computer explores it to see what is the best move to make. Careful when passing arguments since larger values for height and depth can result in the program taking extremely long to run. I suggest passing the arguments "3 3 2" to the file.
+Provide 3 positive integer arguments to the Play.java file. The first argument is the size of the square board, the second argument is the number of adjacent tiles needed to win a game, the third argument is the depth of the game-tree to be explored. The game tree is a tree of all possible outcomes of the game and the computer explores it to see what is the best move to make. If the depth of the game tree is greater, than the difficulty of the game will be greater as well since the computer can explore more potential outcomes. Careful when passing arguments since larger values for length and depth can result in the program taking extremely long to run. I suggest passing the arguments "3 3 2" to the file.
 
 Run the Play.java file and play the tic-tac-toe game that pops up. Follow the instructions in the CLI once you're done.
 
