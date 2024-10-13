@@ -2,4 +2,4 @@
 
 This is my implementation of a tic-tac-toe game!
 
-NOTE: This repository only contains the files which I coded myself. Any other files needed to run this program can be found in this Google Drive folder. These files DO NOT belong to me. Read the disclaimer within the folder for more details.
+NOTE: This repository only contains the files which I coded myself. Any other files needed to run this program can be found in this [Google Drive folder](https://drive.google.com/drive/folders/1MRvhglQzEu9l7O7xeJmihh6QT1G4BsLa?usp=sharing). These files DO NOT belong to me. Read the disclaimer within the folder for more details.
