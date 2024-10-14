@@ -20,4 +20,4 @@ Run the Play.java file and play the tic-tac-toe game that pops up. Follow the in
 
 Here is a demonstration of how the game should run:
 
-![Screen Recording 2024-10-13 221010](https://github.com/user-attachments/assets/bfc905c3-781c-4631-85d5-0e90604e591c)
+https://github.com/user-attachments/assets/b62a496c-793d-4678-a97c-6683be7e6eb3
